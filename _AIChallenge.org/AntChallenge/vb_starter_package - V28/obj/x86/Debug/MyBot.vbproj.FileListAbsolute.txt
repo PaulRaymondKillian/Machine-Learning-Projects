@@ -1,0 +1,7 @@
+C:\Killian Intelligence Systems\_AIChallenge.org\AntChallenge\vb_starter_package\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\_AIChallenge.org\AntChallenge\vb_starter_package\obj\x86\Debug\MyBot.exe
+C:\Killian Intelligence Systems\_AIChallenge.org\AntChallenge\vb_starter_package\obj\x86\Debug\MyBot.xml
+C:\Killian Intelligence Systems\_AIChallenge.org\AntChallenge\vb_starter_package\obj\x86\Debug\MyBot.pdb
+C:\Killian Intelligence Systems\_AIChallenge.org\AntChallenge\vb_starter_package\MyBot.exe
+C:\Killian Intelligence Systems\_AIChallenge.org\AntChallenge\vb_starter_package\MyBot.pdb
+C:\Killian Intelligence Systems\_AIChallenge.org\AntChallenge\vb_starter_package\MyBot.xml

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MachineVisionApp1", "MachineVisionApp1.vbproj", "{EDD4DE93-2F72-4CB6-8795-039496056553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDD4DE93-2F72-4CB6-8795-039496056553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD4DE93-2F72-4CB6-8795-039496056553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD4DE93-2F72-4CB6-8795-039496056553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD4DE93-2F72-4CB6-8795-039496056553}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

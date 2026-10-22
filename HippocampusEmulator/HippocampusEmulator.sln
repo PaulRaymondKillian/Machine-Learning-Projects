@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HippocampusEmulator", "HippocampusEmulator\HippocampusEmulator.vbproj", "{655980A4-5E15-4981-B128-F3D8F4A47F20}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TestHarness", "TestHarness\TestHarness.vbproj", "{089AE0AE-FB18-4D3B-81E2-443181E03305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{655980A4-5E15-4981-B128-F3D8F4A47F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655980A4-5E15-4981-B128-F3D8F4A47F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655980A4-5E15-4981-B128-F3D8F4A47F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655980A4-5E15-4981-B128-F3D8F4A47F20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{089AE0AE-FB18-4D3B-81E2-443181E03305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{089AE0AE-FB18-4D3B-81E2-443181E03305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{089AE0AE-FB18-4D3B-81E2-443181E03305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{089AE0AE-FB18-4D3B-81E2-443181E03305}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

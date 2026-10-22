@@ -1,0 +1,13 @@
+C:\Killian Intelligence Systems\_HTM\SpatialPooler1\SpatialPooler1\TestHarness\bin\Debug\TestHarness.exe
+C:\Killian Intelligence Systems\_HTM\SpatialPooler1\SpatialPooler1\TestHarness\bin\Debug\TestHarness.pdb
+C:\Killian Intelligence Systems\_HTM\SpatialPooler1\SpatialPooler1\TestHarness\bin\Debug\TestHarness.xml
+C:\Killian Intelligence Systems\_HTM\SpatialPooler1\SpatialPooler1\TestHarness\bin\Debug\SpatialPooler1.exe
+C:\Killian Intelligence Systems\_HTM\SpatialPooler1\SpatialPooler1\TestHarness\bin\Debug\SpatialPooler1.pdb
+C:\Killian Intelligence Systems\_HTM\SpatialPooler1\SpatialPooler1\TestHarness\bin\Debug\SpatialPooler1.xml
+C:\Killian Intelligence Systems\_HTM\SpatialPooler1\SpatialPooler1\TestHarness\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\_HTM\SpatialPooler1\SpatialPooler1\TestHarness\obj\x86\Debug\TestHarness.Resources.resources
+C:\Killian Intelligence Systems\_HTM\SpatialPooler1\SpatialPooler1\TestHarness\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Killian Intelligence Systems\_HTM\SpatialPooler1\SpatialPooler1\TestHarness\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Killian Intelligence Systems\_HTM\SpatialPooler1\SpatialPooler1\TestHarness\obj\x86\Debug\TestHarness.exe
+C:\Killian Intelligence Systems\_HTM\SpatialPooler1\SpatialPooler1\TestHarness\obj\x86\Debug\TestHarness.xml
+C:\Killian Intelligence Systems\_HTM\SpatialPooler1\SpatialPooler1\TestHarness\obj\x86\Debug\TestHarness.pdb

@@ -1,0 +1,14 @@
+C:\Killian Intelligence Systems\_AIChallenge.org\AntsTestHarness\AntsTestHarness\bin\Debug\AntsTestHarness.exe.config
+C:\Killian Intelligence Systems\_AIChallenge.org\AntsTestHarness\AntsTestHarness\bin\Debug\AntsTestHarness.exe
+C:\Killian Intelligence Systems\_AIChallenge.org\AntsTestHarness\AntsTestHarness\bin\Debug\AntsTestHarness.pdb
+C:\Killian Intelligence Systems\_AIChallenge.org\AntsTestHarness\AntsTestHarness\bin\Debug\AntsTestHarness.xml
+C:\Killian Intelligence Systems\_AIChallenge.org\AntsTestHarness\AntsTestHarness\bin\Debug\MyBot.exe
+C:\Killian Intelligence Systems\_AIChallenge.org\AntsTestHarness\AntsTestHarness\bin\Debug\MyBot.pdb
+C:\Killian Intelligence Systems\_AIChallenge.org\AntsTestHarness\AntsTestHarness\bin\Debug\MyBot.xml
+C:\Killian Intelligence Systems\_AIChallenge.org\AntsTestHarness\AntsTestHarness\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\_AIChallenge.org\AntsTestHarness\AntsTestHarness\obj\x86\Debug\AntsTestHarness.Resources.resources
+C:\Killian Intelligence Systems\_AIChallenge.org\AntsTestHarness\AntsTestHarness\obj\x86\Debug\ResGen.read.1.tlog
+C:\Killian Intelligence Systems\_AIChallenge.org\AntsTestHarness\AntsTestHarness\obj\x86\Debug\ResGen.write.1.tlog
+C:\Killian Intelligence Systems\_AIChallenge.org\AntsTestHarness\AntsTestHarness\obj\x86\Debug\AntsTestHarness.exe
+C:\Killian Intelligence Systems\_AIChallenge.org\AntsTestHarness\AntsTestHarness\obj\x86\Debug\AntsTestHarness.xml
+C:\Killian Intelligence Systems\_AIChallenge.org\AntsTestHarness\AntsTestHarness\obj\x86\Debug\AntsTestHarness.pdb

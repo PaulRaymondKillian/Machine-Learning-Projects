@@ -1,0 +1,9 @@
+C:\Killian Intelligence Systems\Layer0to2Test\Hippocampus\bin\Debug\Hippocampus.dll
+C:\Killian Intelligence Systems\Layer0to2Test\Hippocampus\bin\Debug\Hippocampus.pdb
+C:\Killian Intelligence Systems\Layer0to2Test\Hippocampus\bin\Debug\Hippocampus.xml
+C:\Killian Intelligence Systems\Layer0to2Test\Hippocampus\obj\Debug\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\Layer0to2Test\Hippocampus\obj\Debug\Hippocampus.Resources.resources
+C:\Killian Intelligence Systems\Layer0to2Test\Hippocampus\obj\Debug\Hippocampus.vbproj.GenerateResource.Cache
+C:\Killian Intelligence Systems\Layer0to2Test\Hippocampus\obj\Debug\Hippocampus.dll
+C:\Killian Intelligence Systems\Layer0to2Test\Hippocampus\obj\Debug\Hippocampus.xml
+C:\Killian Intelligence Systems\Layer0to2Test\Hippocampus\obj\Debug\Hippocampus.pdb

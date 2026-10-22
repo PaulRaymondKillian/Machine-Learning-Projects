@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MachineVisionLib", "MachineVisionLib\MachineVisionLib.vbproj", "{8E422765-07D7-43C5-9406-EE5D48A04819}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MachineVisionApp1", "..\MachineVisionApp\MachineVisionApp\MachineVisionApp1.vbproj", "{EDD4DE93-2F72-4CB6-8795-039496056553}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MatrixLib", "..\..\MatrixLib\MatrixLib\MatrixLib.vbproj", "{13542F4D-0A8B-4751-B9B4-0C36861088A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E422765-07D7-43C5-9406-EE5D48A04819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E422765-07D7-43C5-9406-EE5D48A04819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E422765-07D7-43C5-9406-EE5D48A04819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E422765-07D7-43C5-9406-EE5D48A04819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDD4DE93-2F72-4CB6-8795-039496056553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD4DE93-2F72-4CB6-8795-039496056553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD4DE93-2F72-4CB6-8795-039496056553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD4DE93-2F72-4CB6-8795-039496056553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13542F4D-0A8B-4751-B9B4-0C36861088A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13542F4D-0A8B-4751-B9B4-0C36861088A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13542F4D-0A8B-4751-B9B4-0C36861088A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13542F4D-0A8B-4751-B9B4-0C36861088A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

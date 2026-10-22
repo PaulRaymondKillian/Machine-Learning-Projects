@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HexCellMachineVision", "HexCellMachineVision1\HexCellMachineVision.vbproj", "{FF489040-8D92-47E7-8E9C-4D44EF8886FD}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HexCellGrid", "..\HexCell\HexCellGrid.vbproj", "{60542E34-6159-4FDC-98FF-3B4E171B214F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF489040-8D92-47E7-8E9C-4D44EF8886FD}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{FF489040-8D92-47E7-8E9C-4D44EF8886FD}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{FF489040-8D92-47E7-8E9C-4D44EF8886FD}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{FF489040-8D92-47E7-8E9C-4D44EF8886FD}.Debug|x86.ActiveCfg = Debug|x86
+		{FF489040-8D92-47E7-8E9C-4D44EF8886FD}.Debug|x86.Build.0 = Debug|x86
+		{FF489040-8D92-47E7-8E9C-4D44EF8886FD}.Release|Any CPU.ActiveCfg = Release|x86
+		{FF489040-8D92-47E7-8E9C-4D44EF8886FD}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{FF489040-8D92-47E7-8E9C-4D44EF8886FD}.Release|Mixed Platforms.Build.0 = Release|x86
+		{FF489040-8D92-47E7-8E9C-4D44EF8886FD}.Release|x86.ActiveCfg = Release|x86
+		{FF489040-8D92-47E7-8E9C-4D44EF8886FD}.Release|x86.Build.0 = Release|x86
+		{60542E34-6159-4FDC-98FF-3B4E171B214F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60542E34-6159-4FDC-98FF-3B4E171B214F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60542E34-6159-4FDC-98FF-3B4E171B214F}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{60542E34-6159-4FDC-98FF-3B4E171B214F}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{60542E34-6159-4FDC-98FF-3B4E171B214F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{60542E34-6159-4FDC-98FF-3B4E171B214F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60542E34-6159-4FDC-98FF-3B4E171B214F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60542E34-6159-4FDC-98FF-3B4E171B214F}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{60542E34-6159-4FDC-98FF-3B4E171B214F}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{60542E34-6159-4FDC-98FF-3B4E171B214F}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

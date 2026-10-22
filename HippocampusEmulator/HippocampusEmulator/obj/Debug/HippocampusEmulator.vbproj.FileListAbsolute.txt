@@ -1,0 +1,9 @@
+C:\Killian Intelligence Systems\HippocampusEmulator\HippocampusEmulator\bin\Debug\HippocampusEmulator.dll
+C:\Killian Intelligence Systems\HippocampusEmulator\HippocampusEmulator\bin\Debug\HippocampusEmulator.pdb
+C:\Killian Intelligence Systems\HippocampusEmulator\HippocampusEmulator\bin\Debug\HippocampusEmulator.xml
+C:\Killian Intelligence Systems\HippocampusEmulator\HippocampusEmulator\obj\Debug\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\HippocampusEmulator\HippocampusEmulator\obj\Debug\HippocampusEmulator.Resources.resources
+C:\Killian Intelligence Systems\HippocampusEmulator\HippocampusEmulator\obj\Debug\HippocampusEmulator.vbproj.GenerateResource.Cache
+C:\Killian Intelligence Systems\HippocampusEmulator\HippocampusEmulator\obj\Debug\HippocampusEmulator.dll
+C:\Killian Intelligence Systems\HippocampusEmulator\HippocampusEmulator\obj\Debug\HippocampusEmulator.xml
+C:\Killian Intelligence Systems\HippocampusEmulator\HippocampusEmulator\obj\Debug\HippocampusEmulator.pdb

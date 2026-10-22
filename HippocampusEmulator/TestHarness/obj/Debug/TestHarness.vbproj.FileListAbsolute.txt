@@ -1,0 +1,12 @@
+C:\Killian Intelligence Systems\HippocampusEmulator\TestHarness\bin\Debug\TestHarness.exe
+C:\Killian Intelligence Systems\HippocampusEmulator\TestHarness\bin\Debug\TestHarness.pdb
+C:\Killian Intelligence Systems\HippocampusEmulator\TestHarness\bin\Debug\TestHarness.xml
+C:\Killian Intelligence Systems\HippocampusEmulator\TestHarness\bin\Debug\HippocampusEmulator.dll
+C:\Killian Intelligence Systems\HippocampusEmulator\TestHarness\bin\Debug\HippocampusEmulator.pdb
+C:\Killian Intelligence Systems\HippocampusEmulator\TestHarness\bin\Debug\HippocampusEmulator.xml
+C:\Killian Intelligence Systems\HippocampusEmulator\TestHarness\obj\Debug\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\HippocampusEmulator\TestHarness\obj\Debug\TestHarness.Resources.resources
+C:\Killian Intelligence Systems\HippocampusEmulator\TestHarness\obj\Debug\TestHarness.vbproj.GenerateResource.Cache
+C:\Killian Intelligence Systems\HippocampusEmulator\TestHarness\obj\Debug\TestHarness.exe
+C:\Killian Intelligence Systems\HippocampusEmulator\TestHarness\obj\Debug\TestHarness.xml
+C:\Killian Intelligence Systems\HippocampusEmulator\TestHarness\obj\Debug\TestHarness.pdb

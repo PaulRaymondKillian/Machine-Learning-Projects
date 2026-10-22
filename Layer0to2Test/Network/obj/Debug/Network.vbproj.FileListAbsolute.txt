@@ -1,0 +1,9 @@
+C:\Killian Intelligence Systems\Layer0to2Test\Network\bin\Debug\Network.dll
+C:\Killian Intelligence Systems\Layer0to2Test\Network\bin\Debug\Network.pdb
+C:\Killian Intelligence Systems\Layer0to2Test\Network\bin\Debug\Network.xml
+C:\Killian Intelligence Systems\Layer0to2Test\Network\obj\Debug\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\Layer0to2Test\Network\obj\Debug\Network.Resources.resources
+C:\Killian Intelligence Systems\Layer0to2Test\Network\obj\Debug\Network.vbproj.GenerateResource.Cache
+C:\Killian Intelligence Systems\Layer0to2Test\Network\obj\Debug\Network.dll
+C:\Killian Intelligence Systems\Layer0to2Test\Network\obj\Debug\Network.xml
+C:\Killian Intelligence Systems\Layer0to2Test\Network\obj\Debug\Network.pdb

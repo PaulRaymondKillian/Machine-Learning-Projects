@@ -1,0 +1,7 @@
+C:\Killian Intelligence Systems\HippocampalTest\HippocampalTest\obj\Debug\HippocampalTest.exe
+C:\Killian Intelligence Systems\HippocampalTest\HippocampalTest\obj\Debug\HippocampalTest.pdb
+C:\Killian Intelligence Systems\HippocampalTest\HippocampalTest\bin\HippocampalTest.exe
+C:\Killian Intelligence Systems\HippocampalTest\HippocampalTest\bin\HippocampalTest.pdb
+C:\Killian Intelligence Systems\HippocampalTest\HippocampalTest\bin\HippocampalTest.xml
+C:\Killian Intelligence Systems\HippocampalTest\HippocampalTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\HippocampalTest\HippocampalTest\obj\Debug\HippocampalTest.xml

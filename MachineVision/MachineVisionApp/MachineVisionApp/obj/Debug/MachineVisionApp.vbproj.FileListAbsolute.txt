@@ -1,0 +1,16 @@
+C:\Killian Intelligence Systems\MachineVision\MachineVisionApp\MachineVisionApp\bin\Debug\MachineVisionApp.exe
+C:\Killian Intelligence Systems\MachineVision\MachineVisionApp\MachineVisionApp\bin\Debug\MachineVisionApp.pdb
+C:\Killian Intelligence Systems\MachineVision\MachineVisionApp\MachineVisionApp\bin\Debug\MachineVisionApp.xml
+C:\Killian Intelligence Systems\MachineVision\MachineVisionApp\MachineVisionApp\bin\Debug\MachineVisionLib.dll
+C:\Killian Intelligence Systems\MachineVision\MachineVisionApp\MachineVisionApp\bin\Debug\MatrixLib.dll
+C:\Killian Intelligence Systems\MachineVision\MachineVisionApp\MachineVisionApp\bin\Debug\MachineVisionLib.pdb
+C:\Killian Intelligence Systems\MachineVision\MachineVisionApp\MachineVisionApp\bin\Debug\MachineVisionLib.xml
+C:\Killian Intelligence Systems\MachineVision\MachineVisionApp\MachineVisionApp\bin\Debug\MatrixLib.pdb
+C:\Killian Intelligence Systems\MachineVision\MachineVisionApp\MachineVisionApp\bin\Debug\MatrixLib.xml
+C:\Killian Intelligence Systems\MachineVision\MachineVisionApp\MachineVisionApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\MachineVision\MachineVisionApp\MachineVisionApp\obj\Debug\MachineVisionApp.Resources.resources
+C:\Killian Intelligence Systems\MachineVision\MachineVisionApp\MachineVisionApp\obj\Debug\MachineVisionApp.vbproj.GenerateResource.Cache
+C:\Killian Intelligence Systems\MachineVision\MachineVisionApp\MachineVisionApp\obj\Debug\MachineVisionApp.exe
+C:\Killian Intelligence Systems\MachineVision\MachineVisionApp\MachineVisionApp\obj\Debug\MachineVisionApp.xml
+C:\Killian Intelligence Systems\MachineVision\MachineVisionApp\MachineVisionApp\obj\Debug\MachineVisionApp.pdb
+C:\Killian Intelligence Systems\MachineVision\MachineVisionApp\MachineVisionApp\obj\Debug\MachineVisionApp.Form1.resources

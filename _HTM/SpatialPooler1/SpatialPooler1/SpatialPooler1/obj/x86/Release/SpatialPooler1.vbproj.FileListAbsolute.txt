@@ -1,0 +1,11 @@
+C:\Killian Intelligence Systems\_HTM\SpatialPooler1\SpatialPooler1\SpatialPooler1\bin\Release\SpatialPooler1.exe
+C:\Killian Intelligence Systems\_HTM\SpatialPooler1\SpatialPooler1\SpatialPooler1\bin\Release\SpatialPooler1.pdb
+C:\Killian Intelligence Systems\_HTM\SpatialPooler1\SpatialPooler1\SpatialPooler1\bin\Release\SpatialPooler1.xml
+C:\Killian Intelligence Systems\_HTM\SpatialPooler1\SpatialPooler1\SpatialPooler1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\_HTM\SpatialPooler1\SpatialPooler1\SpatialPooler1\obj\x86\Release\SpatialPooler1.Form1.resources
+C:\Killian Intelligence Systems\_HTM\SpatialPooler1\SpatialPooler1\SpatialPooler1\obj\x86\Release\SpatialPooler1.Resources.resources
+C:\Killian Intelligence Systems\_HTM\SpatialPooler1\SpatialPooler1\SpatialPooler1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Killian Intelligence Systems\_HTM\SpatialPooler1\SpatialPooler1\SpatialPooler1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Killian Intelligence Systems\_HTM\SpatialPooler1\SpatialPooler1\SpatialPooler1\obj\x86\Release\SpatialPooler1.exe
+C:\Killian Intelligence Systems\_HTM\SpatialPooler1\SpatialPooler1\SpatialPooler1\obj\x86\Release\SpatialPooler1.xml
+C:\Killian Intelligence Systems\_HTM\SpatialPooler1\SpatialPooler1\SpatialPooler1\obj\x86\Release\SpatialPooler1.pdb

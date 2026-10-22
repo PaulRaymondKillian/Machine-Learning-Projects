@@ -1,0 +1,12 @@
+C:\Killian Intelligence Systems\Layer0to2Test\TestHarness\bin\Debug\TestHarness.exe
+C:\Killian Intelligence Systems\Layer0to2Test\TestHarness\bin\Debug\TestHarness.pdb
+C:\Killian Intelligence Systems\Layer0to2Test\TestHarness\bin\Debug\TestHarness.xml
+C:\Killian Intelligence Systems\Layer0to2Test\TestHarness\bin\Debug\Network.dll
+C:\Killian Intelligence Systems\Layer0to2Test\TestHarness\bin\Debug\Network.pdb
+C:\Killian Intelligence Systems\Layer0to2Test\TestHarness\bin\Debug\Network.xml
+C:\Killian Intelligence Systems\Layer0to2Test\TestHarness\obj\Debug\ResolveAssemblyReference.cache
+C:\Killian Intelligence Systems\Layer0to2Test\TestHarness\obj\Debug\TestHarness.Resources.resources
+C:\Killian Intelligence Systems\Layer0to2Test\TestHarness\obj\Debug\TestHarness.vbproj.GenerateResource.Cache
+C:\Killian Intelligence Systems\Layer0to2Test\TestHarness\obj\Debug\TestHarness.exe
+C:\Killian Intelligence Systems\Layer0to2Test\TestHarness\obj\Debug\TestHarness.xml
+C:\Killian Intelligence Systems\Layer0to2Test\TestHarness\obj\Debug\TestHarness.pdb
